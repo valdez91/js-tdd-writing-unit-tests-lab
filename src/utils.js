@@ -1,6 +1,5 @@
-// Your code here
 
-function reverse(string) {
+const  reverse=(string)=> {
     return string.split("").reverse().join("");
   }
   
